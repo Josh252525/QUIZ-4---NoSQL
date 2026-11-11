@@ -1,0 +1,24 @@
+{
+    "productos": {
+        "1": {
+            "id": "P01",
+            "tipo": "laptop",
+            "marca": "Lenovo",
+            "modelo": "ThinkPad T14",
+            "precio": 890,
+            "specs": {
+                "cpu": "Ryzen 7",
+                "ram": 16
+            },
+            "descuento": true
+        },
+        "3": {
+            "id": "P03",
+            "tipo": "mouse",
+            "marca": "Logitech",
+            "modelo": "G305",
+            "inalambrico": true,
+            "precio": 45
+        }
+    }
+}
